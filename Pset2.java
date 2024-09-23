@@ -4,8 +4,8 @@ class Pset2 {
 		String date = "Sep 8th";
 		System.out.println(name);
 		System.out.print(date);
-		System.out.println(" ");
-		System.out.println(" ");
+		System.out.println();
+		System.out.println();
 		int number_students=12;
 		//remember: to set a variable, using = but not :
 		System.out.println(number_students + " students are in our class");
